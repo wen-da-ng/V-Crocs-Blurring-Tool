@@ -2,7 +2,7 @@
 This program blurs ViTrox's Crocs in Images
 
 ![alt text](misc/image.png)
-![alt text](misc/mosaic_blur_0 (1).jpg)
+![alt text](misc/mosaic_blur_0.jpg)
 
 ## Prerequisites
 
