@@ -26,8 +26,8 @@ git clone https://github.com/wen-da-ng/V-Crocs-Blurring-Tool.git
 ### 1. First time running the program
 
 Double click the "run_me.bat" file 
-```
-Note that during the first time running the program, you'll need to connect to the Internet and it will take some times depending on your network speed, the program will automatically skip the package installation after the first run. You can run the program even without any Internet connection after the first run.
-```
+
+** Note that during the first time running the program, you'll need to connect to the Internet and it will take some times depending on your network speed, the program will automatically skip the package installation after the first run. You can run the program even without any Internet connection after the first run.
+
 
 
