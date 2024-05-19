@@ -1,6 +1,9 @@
 # V-Crocs-Blurring-Tool
 This program blurs ViTrox's Crocs in Images
 
+![alt text](misc/image.png)
+![alt text](mosaic_blur_1.jpg) ![alt text](<mosaic_blur_0 (1).jpg>)
+
 ## Prerequisites
 
 Before you begin, ensure you have met the following requirements:
